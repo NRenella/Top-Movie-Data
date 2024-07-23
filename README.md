@@ -4,6 +4,8 @@ I have a passion for data and movies, this visualization tackles IMDB top movies
 
 The link to the data visualization dashboard can be found here: [Tableau Dashboard](https://public.tableau.com/app/profile/noah.renella/viz/IMDB-data-visualization/Dashboard1)
 
+You may also see a screenshot of the dashboard below
+
 ## Tools
 I used Python, Tableau, Excel, and Kaggle for this project.
 
@@ -18,5 +20,7 @@ Tableau was used for visualizing the data as seen above
 Thank you checking it out.
 
 Send me any suggestions at: NTRenella@gmail.com
+
+## Dashboard Screenshot
 
 ![screenshot](https://github.com/NRenella/Top-Movie-Data/blob/main/Dashboard%201.png)
