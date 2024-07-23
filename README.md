@@ -19,4 +19,4 @@ Thank you checking it out.
 
 Send me any suggestions at: NTRenella@gmail.com
 
-![screenshot](Dashboard 1.png)
+![screenshot](https://github.com/NRenella/Top-Movie-Data/blob/main/Dashboard%201.png)
